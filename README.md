@@ -1,5 +1,8 @@
-# Potentiometer-Blinking-LEDs
-Repository with code that reads a potentiometer value and makes several LEDs light up accordingly using a Raspberry Pi.
+# ntroduction
+
+Wouldn’t it be amazing if you could move something, change something, create something just by giving inputs using python programming? This concept can be seen in our daily lives. For example, a keyboard can change values on a screen, a mouse can move something on a screen. From changing a value of an LED to controlling a space shuttle, the possibilities of this simple concept can expand. Examples of this concept include controlling the TV by inputting values via a remote, controlling a rover on Mars by changing several input values from Earth. These may be extreme examples but essentially, the fundamentals of the concept remain the same. Based on this, I created a prototype and I documented it below.
+
+# Overview - Raspberry Pi Potentiometer Blinking LEDs
 
 Using a Raspberry Pi Zero, a Breadboard, one potentiometer, a few LEDs and several cables, I was able to create a program that can read a potentiometer value and light up an LED accordingly. This project is a prototype/first test of my tweeting plant project. 
 
